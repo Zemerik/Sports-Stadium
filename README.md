@@ -26,8 +26,10 @@
 </br>
 </br>
 </br>
-<h3>Functions</h3>
-<p>> Developer commands:</p>
+<h3>Commands</h3>
+<p>> Developer:</p>
+<br>
+</br>
 <li>add</li>
 <li>autolive</li>
 <li>beta</li>
@@ -38,7 +40,9 @@
 <li>triggeradd</li>
 <li>triggerremove</li>
 <li>triggershow</li>
-<p>> Economy</p>
+<p>> Economy: </p>
+<br>
+</br>
 <li>bal</li>
 <li>chatcoins</li>
 <li>daily</li>
@@ -54,7 +58,9 @@
 <li>toss</li>
 <li>vote</li>
 <li>work</li>
-<p>> Fun</p>
+<p>> Fun:</p>
+<br>
+</br>
 <li>8ball</li>
 <li>compliment</li>
 <li>fact</li>
@@ -64,7 +70,9 @@
 <li>rps</li>
 <li>sudo</li>
 <li>urban</li>
-<p>> General</p>
+<p>> General:</p>
+<br>
+</br>
 <li>firstmessage</li>
 <li>gpt</li>
 <li>help</li>
@@ -76,6 +84,8 @@
 <li>snipe</li>
 <li>social</li>
 <p>> Moderation</p>
+<br>
+</br>
 <li>addrole</li>
 <li>ban</li>
 <li>kick</li>
@@ -88,6 +98,8 @@
 <li>unlock</li>
 <li>unmute</li>
 <p>> Setup</p>
+<br>
+</br>
 <li>blacklist-add</li>
 <li>blacklist-clear</li>
 <li>blacklist-disable</li>
