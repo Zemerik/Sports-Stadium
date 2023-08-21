@@ -38,7 +38,7 @@
 <li>triggeradd</li>
 <li>triggerremove</li>
 <li>triggershow</li>
-<p>>Economy</p>
+<p>> Economy</p>
 <li>bal</li>
 <li>chatcoins</li>
 <li>daily</li>
@@ -54,7 +54,7 @@
 <li>toss</li>
 <li>vote</li>
 <li>work</li>
-<p>>Fun</p>
+<p>> Fun</p>
 <li>8ball</li>
 <li>compliment</li>
 <li>fact</li>
@@ -64,7 +64,7 @@
 <li>rps</li>
 <li>sudo</li>
 <li>urban</li>
-<p>>General</p>
+<p>> General</p>
 <li>firstmessage</li>
 <li>gpt</li>
 <li>help</li>
@@ -75,7 +75,7 @@
 <li>setgpt</li>
 <li>snipe</li>
 <li>social</li>
-<p>>Moderation</p>
+<p>> Moderation</p>
 <li>addrole</li>
 <li>ban</li>
 <li>kick</li>
@@ -87,7 +87,7 @@
 <li>unban</li>
 <li>unlock</li>
 <li>unmute</li>
-<p>>Setup</p>
+<p>> Setup</p>
 <li>blacklist-add</li>
 <li>blacklist-clear</li>
 <li>blacklist-disable</li>
