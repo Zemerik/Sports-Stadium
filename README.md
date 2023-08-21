@@ -1,18 +1,16 @@
 # Sports-Universe-Bot
 
 <h3>Bot info<h3>
-<li>Prefix = **ss**</li>
-<li>Total Servers = **56**</li>
-<li>Commands = **42**</li>
-<li>Categories = **Sports, Cricket, Economy, ChatGPT, ChatBot, Moderation, Triggers, Webhhooks**</li>
+<li>Prefix = ss</li>
+<li>Total Servers = 56</li>
+<li>Commands = 42</li>
+<li>Categories = Sports, Cricket, Economy, ChatGPT, ChatBot, Moderation, Triggers, Webhhooks</li>
 <h3> Statics</h3>
 <h1><a href = "https://top.gg/bot/1119542429201211432">Top.gg</a></h1>
 <img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1143059537910304828/Screenshot_467.png" style = "width:350px;height:250px" alt = "Top.gg" align = "left">
 <br>
 <br>
 <br>
-<br>
-<br>
 </br>
 </br>
 </br>
@@ -24,8 +22,6 @@
 <br>
 <br>
 <br>
-</br>
-</br>
 </br>
 </br>
 </br>
