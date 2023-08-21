@@ -56,9 +56,9 @@
 <li>toss</li>
 <li>vote</li>
 <li>work</li>
-<p>> Fun:</p>
 <br>
 </br>
+<p>> Fun:</p>
 <li>8ball</li>
 <li>compliment</li>
 <li>fact</li>
@@ -68,9 +68,9 @@
 <li>rps</li>
 <li>sudo</li>
 <li>urban</li>
-<p>> General:</p>
 <br>
 </br>
+<p>> General:</p>
 <li>firstmessage</li>
 <li>gpt</li>
 <li>help</li>
@@ -81,9 +81,9 @@
 <li>setgpt</li>
 <li>snipe</li>
 <li>social</li>
-<p>> Moderation</p>
 <br>
 </br>
+<p>> Moderation</p>
 <li>addrole</li>
 <li>ban</li>
 <li>kick</li>
@@ -95,9 +95,9 @@
 <li>unban</li>
 <li>unlock</li>
 <li>unmute</li>
-<p>> Setup</p>
 <br>
 </br>
+<p>> Setup</p>
 <li>blacklist-add</li>
 <li>blacklist-clear</li>
 <li>blacklist-disable</li>
