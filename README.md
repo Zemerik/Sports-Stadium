@@ -28,8 +28,6 @@
 </br>
 <h3>Commands</h3>
 <p>> Developer:</p>
-<br>
-</br>
 <li>add</li>
 <li>autolive</li>
 <li>beta</li>
