@@ -1,5 +1,9 @@
 # Sports-Universe-Bot
 
+<h3>Links</h3>
+<li><a href = "https://discord.com/api/oauth2/authorize?client_id=1119542429201211432&permissions=1942130601207&scope=bot">Invite Link</a></li>
+<li><a href = "https://discord.gg/THJhePHaH7">Support Server</a></li>
+<li><a href = "https://top.gg/bot/1119542429201211432">Top.gg</a></li>
 <h3>Bot info</h3>
 <li>Prefix = ss</li>
 <li>Total Servers = 56</li>
@@ -16,94 +20,17 @@
 <br>
 <br>
 <br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<h3>Commands</h3>
-<p>> Developer:</p>
-<li>add</li>
-<li>autolive</li>
-<li>beta</li>
-<li>eval</li>
-<li>live</li>
-<li>remove</li>
-<li>restart</li>
-<li>triggeradd</li>
-<li>triggerremove</li>
-<li>triggershow</li>
 <br>
 </br>
-<p>> Economy: </p>
-<li>bal</li>
-<li>chatcoins</li>
-<li>daily</li>
-<li>debut</li>
-<li>give</li>
-<li>inventory</li>
-<li>monthly</li>
-<li>play</li>
-<li>rr</li>
-<li>show</li>
-<li>spin</li>
-<li>top</li>
-<li>toss</li>
-<li>vote</li>
-<li>work</li>
-<br>
 </br>
-<p>> Fun:</p>
-<li>8ball</li>
-<li>compliment</li>
-<li>fact</li>
-<li>meme</li>
-<li>qotd</li>
-<li>roast</li>
-<li>rps</li>
-<li>sudo</li>
-<li>urban</li>
-<br>
 </br>
-<p>> General:</p>
-<li>firstmessage</li>
-<li>gpt</li>
-<li>help</li>
-<li>invites</li>
-<li>match</li>
-<li>news</li>
-<li>removegpt</li>
-<li>setgpt</li>
-<li>snipe</li>
-<li>social</li>
-<br>
 </br>
-<p>> Moderation</p>
-<li>addrole</li>
-<li>ban</li>
-<li>kick</li>
-<li>lock</li>
-<li>mute</li>
-<li>purge</li>
-<li>removerole</li>
-<li>report</li>
-<li>unban</li>
-<li>unlock</li>
-<li>unmute</li>
-<br>
 </br>
-<p>> Setup</p>
-<li>blacklist-add</li>
-<li>blacklist-clear</li>
-<li>blacklist-disable</li>
-<li>blacklist-enable</li>
-<li>blacklist-remove</li>
-<li>blacklist-words</li>
-<li>chatbot</li>
+</br>
+</br>
+</br>
+</br>
+</br>
 <h3>Developers(discord usernmae)</h3>
-<p>- esrornotfound</p>
-<p>- .zemerik</p>
+<li><a href = "https://discord.com/users/665181723276869655">Esror</a></li>
+<li><a href = "https://discord.com/users/1018816958587748383">Zemerik</a></li>
