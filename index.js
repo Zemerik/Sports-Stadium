@@ -1074,7 +1074,7 @@ client.on('ready', () => {
 client.user.setActivity(`${prefix}help | ${client.guilds.cache.size} servers`, { type: 'PLAYING' })
           })
 //login and error handler
-client.login(process.env.token)
+client.login() //Bot Token
 console.log("Working ✓")
 //crash handler
 
