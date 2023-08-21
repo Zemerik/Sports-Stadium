@@ -38,9 +38,9 @@
 <li>triggeradd</li>
 <li>triggerremove</li>
 <li>triggershow</li>
-<p>> Economy: </p>
 <br>
 </br>
+<p>> Economy: </p>
 <li>bal</li>
 <li>chatcoins</li>
 <li>daily</li>
