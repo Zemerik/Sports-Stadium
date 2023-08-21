@@ -1,7 +1,6 @@
 # Sports-Universe-Bot
 
-<h3><a href = "https://top.gg/">Top.gg Statics</a></h3>
-<img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1143059537910304828/Screenshot_467.png" style = "width:350px;height:250px" alt = "top.gg" align = "left"> 
+<img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1143059537910304828/Screenshot_467.png" style = "width:350px;height:250px" alt = <a href = "https://top.gg/">Top.gg</a> align = "left"> 
 <br>
 <br>
 <br>
