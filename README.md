@@ -4,6 +4,7 @@
 <li><a href = "https://discord.com/api/oauth2/authorize?client_id=1119542429201211432&permissions=1942130601207&scope=bot">Invite Link</a></li>
 <li><a href = "https://discord.gg/THJhePHaH7">Support Server</a></li>
 <li><a href = "https://top.gg/bot/1119542429201211432">Top.gg</a></li>
+<li><a href = "https://replit.com/@LuiceferYadav/Image-Generator">Replit</li>
 <h3>Bot info</h3>
 <li>Prefix = ss</li>
 <li>Total Servers = 56</li>
@@ -39,6 +40,6 @@ categories; <bold></bold>developer; economy; fun; general; moderation; setup</bo
 </br>
 </br>
 </br>
-<h3>Developers(discord usernmae)</h3>
+<h3>Developers</h3>
 <li><a href = "https://discord.com/users/665181723276869655">Esror</a></li>
 <li><a href = "https://discord.com/users/1018816958587748383">Zemerik</a></li>
