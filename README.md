@@ -13,7 +13,8 @@
 <br>
 </br>
 
-<p>Developed by a team of 2 people, this bot has a range of functions. The Functions are divided into six catogories; <bold></bold>developer; economy; fun; general; moderation; setup</bold>. Developer commands are more for the developers/admins, who set up the bot in severs. Economy commands include; <bold>sswork; ssspin; ssdaily; ssplay; sstop; etc</bold>. Fun commands are for all users, such as <bold>ssroast</bold> and <bold>ss8ball</bold>. General commands include <bold>setting privat chatGPT key, checking invites, live scores(cricket) and help command</bold>. The moderation commands are exactly the same as provided by <bold>Carl-Bot</bold>. Setup commands set up the <bold>chatGPT channel and ChatBot channel</bold>. The setup commands also includes blacklist, in which words can be added, cleared, and even toggled on/off. </p>
+<p>Developed by a team of 2 people, this bot has a range of functions. The Functions are divided into six 
+categories; <bold></bold>developer; economy; fun; general; moderation; setup</bold>. Developer commands are more for the developers/admins, who set up the bot in severs. Economy commands include; <bold>sswork; ssspin; ssdaily; ssplay; sstop; etc</bold>. Fun commands are for all users, such as <bold>ssroast</bold> and <bold>ss8ball</bold>. General commands include <bold>setting privat chatGPT key, checking invites, live scores(cricket) and help command</bold>. The moderation commands are exactly the same as provided by <bold>Carl-Bot</bold>. Setup commands set up the <bold>chatGPT channel and ChatBot channel</bold>. The setup commands also includes blacklist, in which words can be added, cleared, and even toggled on/off. </p>
 
 
 <h3> Statics</h3>
