@@ -9,6 +9,13 @@
 <li>Total Servers = 56</li>
 <li>Commands = 42</li>
 <li>Categories = Sports, Cricket, Economy, ChatGPT, ChatBot, Moderation, Triggers, Webhhooks</li>
+<br>
+<br>
+<br>
+</br>
+</br>
+</br>
+<p>Developed by a team of 2 people, this bot has a range of functions. The Functions are divided into six catogories; developer; economy; fun; general; moderation; setup. Developer commands are more for the developers/admins, who set up the bot in severs. Economy commands include; sswork; ssspin; ssdaily; ssplay; sstop; etc. Fun commands are for all users, such as ssroast and ss8ball. </p>
 <h3> Statics</h3>
 <img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1143059537910304828/Screenshot_467.png" style = "width:700px;height:450px" alt = "Top.gg" align = "left">
 <br>
