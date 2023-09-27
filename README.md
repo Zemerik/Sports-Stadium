@@ -67,7 +67,7 @@
 <li>Lock - Lock a channel</li>
 <li>Mute - Mute an user</li>
 <li>Purge - Delete a specific number of messages</li>
-<li>Removerole - Remove a roke from an user</li>
+<li>Removerole - Remove a role from an user</li>
 <li>Report - Send a message to admins/developers</li>
 <li>Unban - Unban a user</li>
 <li>Unlock - Unlock a channel</li>
