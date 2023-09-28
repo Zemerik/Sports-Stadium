@@ -67,7 +67,7 @@
 <li>Lock - Lock a channel</li>
 <li>Mute - Mute an user</li>
 <li>Purge - Delete a specific number of messages</li>
-<li>Removerole - Remove a roke from an user</li>
+<li>Removerole - Remove a role from an user</li>
 <li>Report - Send a message to admins/developers</li>
 <li>Unban - Unban a user</li>
 <li>Unlock - Unlock a channel</li>
@@ -108,7 +108,9 @@
 <br>
 
 <h3>🫂Contributing: </h3>
-<li>If you would like to contribute, kindly open a <a href = "https://github.com/Zemerik/Sports-Universe-Bot/pulls">Pull Request</a>. It will be merged as soon as possible after it has been reviewed.</li>
+<p>To contribute, kindly do the following:
+<li>Fork this repositery</p>
+<li>Make the desired changes and open a <a href = "https://github.com/Zemerik/Sports-Universe-Bot/pulls">Pull Request</a>.</li> <p>It will be merged as soon as possible after it has been reviewed.</p>
 
 <h3>👨‍💻Developers</h3>
 <p>Sports Stadium was developed by a team of four people, including two developers:</p>
