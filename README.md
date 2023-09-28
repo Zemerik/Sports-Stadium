@@ -8,7 +8,7 @@
 <li>Version = V13</li>
 
 <h3>🗽Bot status: </h3>
-<img src = "https://discord.c99.nl/widget/theme-4/1119542429201211432.png">
+<p><img src = "https://discord.c99.nl/widget/theme-4/1119542429201211432.png"></p>
 
 <h3>ℹ️About:</h3>
 <p>Sports Universe is a discord bot made with JavaScript, specifically NodeJS. The bot was originally made to manage <a href = "https://discord.gg/THJhePHaH7">Sports Universe</a>, however numerous servers have added the bot. The main features that the bot covers are: Developer; Economy; Fun; General; Moderation. There are 8 to 15 commands in each of those Categories.</p>
@@ -84,7 +84,6 @@
 <li><a href = "https://top.gg/bot/1119542429201211432">Top.gg</a></li>
 
 <h3>🔢Statics</h3>
-<br>
 <img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1143059537910304828/Screenshot_467.png" style = "width:700px;height:450px" alt = "Top.gg" align = "left">
 
 <br>
