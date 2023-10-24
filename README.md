@@ -1,4 +1,4 @@
-<h1 align = "center">🏏Sports-Universe-Bot</h1>
+<h1 align = "center">🏏Sports-Stadium-Bot</h1>
 
 
 <h3>😉Bot info</h3>
