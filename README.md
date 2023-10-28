@@ -107,9 +107,7 @@
 <br>
 
 <h3>🫂Contributing: </h3>
-<p>To contribute, kindly do the following:
-<li>Fork this repositery</p>
-<li>Make the desired changes and open a <a href = "https://github.com/Zemerik/Sports-Universe-Bot/pulls">Pull Request</a>.</li> <p>It will be merged as soon as possible after it has been reviewed.</p>
+<p>Contributions are always welcome, kindly see <a href = "https://github.com/Zemerik/Sports-Stadium/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> filey</p>
 
 <h3>👨‍💻Developers</h3>
 <p>Sports Stadium was developed by a team of four people, including two developers:</p>
