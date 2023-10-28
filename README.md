@@ -107,7 +107,7 @@
 <br>
 
 <h3>🫂Contributing: </h3>
-<p>Contributions are always welcome, kindly see <a href = "https://github.com/Zemerik/Sports-Stadium/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> filey</p>
+<p>Contributions are always welcome, kindly see <a href = "https://github.com/Zemerik/Sports-Stadium/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> file</p>
 
 <h3>👨‍💻Developers</h3>
 <p>Sports Stadium was developed by a team of four people, including two developers:</p>
