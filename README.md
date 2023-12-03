@@ -1,5 +1,10 @@
 <h1 align = "center">🏏Sports-Stadium-Bot</h1>
 
+<h3>🔗Links</h3>
+<li><a href = "https://zemerik.is-a.dev/sports-stadium/">Website</a></li>
+<li><a href = "https://discord.com/api/oauth2/authorize?client_id=1119542429201211432&permissions=1942130601207&scope=bot">Invite Link</a></li>
+<li><a href = "https://discord.gg/THJhePHaH7">Support Server</a></li>
+<li><a href = "https://top.gg/bot/1119542429201211432">Top.gg</a></li>
 
 <h3>😉Bot info</h3>
 <li>Prefix = ss</li>
@@ -77,11 +82,6 @@
 <li>ChatGPT - Free chatgpt in the official server only</li>
 <li>ChatBot - Free funny chatbot in the official server only</li>
 <li>Chatcoins - Award users for sending messages</li>
-
-<h3>🔗Links</h3>
-<li><a href = "https://discord.com/api/oauth2/authorize?client_id=1119542429201211432&permissions=1942130601207&scope=bot">Invite Link</a></li>
-<li><a href = "https://discord.gg/THJhePHaH7">Support Server</a></li>
-<li><a href = "https://top.gg/bot/1119542429201211432">Top.gg</a></li>
 
 <h3>🔢Statics</h3>
 <img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1143059537910304828/Screenshot_467.png" style = "width:700px;height:450px" alt = "Top.gg" align = "left">
