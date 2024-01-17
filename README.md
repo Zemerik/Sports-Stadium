@@ -1,10 +1,13 @@
 <h1 align = "center">🏏Sports-Stadium-Bot</h1>
 
+<h6>Note that v2.0.1 is a temporary version of version 2, the actual version will be launched on 20/01/24. Until then, if you spot any errors, please submit a forum.</h6>
+
 <h3>🔗Links</h3>
 <li><a href = "https://zemerik.is-a.dev/sports-stadium/">Website</a></li>
 <li><a href = "https://discord.com/api/oauth2/authorize?client_id=1119542429201211432&permissions=1942130601207&scope=bot">Invite Link</a></li>
 <li><a href = "https://discord.gg/THJhePHaH7">Support Server</a></li>
 <li><a href = "https://top.gg/bot/1119542429201211432">Top.gg</a></li>
+<li><a href =  "https://forms.gle/vr9mPw72HczYaLSH8">Forum</a></li>
 
 <h3>😉Bot info</h3>
 <li>Prefix = ss</li>
