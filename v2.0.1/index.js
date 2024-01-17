@@ -91,7 +91,7 @@ client.aliases.get(commandName)
 })
 
 const { bot_token } = require("./config.json")
-const mongo_url = "mongodb+srv://EconomyBot:sports_stadium@economybot.p4huhyk.mongodb.net/?retryWrites=true&w=majority"
+const mongo_url = "..."
 const { readdirSync } = require("fs");
 
 const path = require('node:path');
