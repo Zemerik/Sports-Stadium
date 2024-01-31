@@ -1,6 +1,6 @@
 <h1 align = "center">🏏Sports-Stadium-Bot</h1>
 
-<h6>Note that v2.0.1 is a temporary version of version 2, the actual version will be launched on 27/01/24. Until then, if you spot any errors, please submit a forum.</h6>
+<h6>Note that v2.0.1 is a temporary version of version 2, the actual version will be launched on 11/02/24. Until then, if you spot any errors, please submit a forum.</h6>
 
 <h3>🔗Links</h3>
 <li><a href = "https://zemerik.is-a.dev/sports-stadium/">Website</a></li>
