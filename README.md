@@ -1,27 +1,33 @@
-<h1 align = "center">🏏Sports-Stadium-Bot</h1>
+<p align = "center"><img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1233606111807012864/image.png?ex=662db4b8&is=662c6338&hm=0c78e146a60f89911db1782ddd480f5baae36ef9cd625759d3aaa590e9541c1d&"></p>
 
-<h6>Note that v2.0.1 is a temporary version of version 2, the actual version will be launched soon. Until then, if you spot any errors, please submit a forum.</h6>
+<h1 align = "center">🏏Sports Stadium</h1>
 
-<h3>🔗Links</h3>
-<li><a href = "https://zemerik.is-a.dev/sports-stadium/">Website</a></li>
-<li><a href = "https://discord.com/api/oauth2/authorize?client_id=1119542429201211432&permissions=1942130601207&scope=bot">Invite Link</a></li>
-<li><a href = "https://discord.gg/THJhePHaH7">Support Server</a></li>
-<li><a href = "https://top.gg/bot/1119542429201211432">Top.gg</a></li>
-<li><a href =  "https://forms.gle/vr9mPw72HczYaLSH8">Forum</a></li>
+<p align="center">
+  <a href="https://zemerik.is-a.dev/Sports-Stadium">
+    <img src="https://img.shields.io/badge/Dashboard-orange.svg">
+  </a>
+  <a href="https://github.com/Rapptz/discord.py/">
+     <img src="https://img.shields.io/badge/discord-js-yellow.svg" alt="discord.js">
+  </a>
+  <a href="https://discord.gg/THJheePHaH7">
+    <img src="https://discordapp.com/api/guilds/1019544819133054976/widget.png" alt="Discord Server">
+  </a>
+  <a href="https://top.gg/bot/1119542429201211432">
+    <img src="https://img.shields.io/badge/Up-Vote-green.svg" alt="Upvote">
+  </a>
+  <a href="https://forms.gle/vr9mPw72HczYaLSH8">
+    <img src="https://img.shields.io/badge/Report-Bug!-red.svg" alt="Report a Bug">
+  </a>
+</p>
 
-<h3>😉Bot info</h3>
-<li>Prefix = ss</li>
-<li>Commands = 42</li>
-<li>Languages = JavaScript, NodeJS</li>
-<li>Version = V13</li>
+<p align = "center"><img src = "https://discord.c99.nl/widget/theme-4/1119542429201211432.png"></p>
 
-<h3>🗽Bot status: </h3>
-<p><img src = "https://discord.c99.nl/widget/theme-4/1119542429201211432.png"></p>
+## ℹ️About:</h3>
+<p>Sports Stadium is a discord bot made with JavaScript, specifically NodeJS. The bot was originally made to manage <a href = "https://discord.gg/THJhePHaH7">Stadium</a>, however numerous servers have added the bot. Sports Stadium is a fully modular bot, meaning that users can enable/disable any commands. The main features that the bot covers are: Developer; Economy; Fun; General; Moderation. There are 8 to 15 commands in each of those Categories.The bot used a MongoDB Database for the economy commands and is currently in the process of being verified.</p>
 
-<h3>ℹ️About:</h3>
-<p>Sports Universe is a discord bot made with JavaScript, specifically NodeJS. The bot was originally made to manage <a href = "https://discord.gg/THJhePHaH7">Sports Universe</a>, however numerous servers have added the bot. The main features that the bot covers are: Developer; Economy; Fun; General; Moderation. There are 8 to 15 commands in each of those Categories.</p>
+## Commands:
 
-<h3>📱Developer Commands: </h3>
+### 📱Developer Commands:
 <li>Add - Add an item in the market</li>
 <li>Autolive - Fetch scores for ongoing cricket match(s)</li>
 <li>Eval - Compile Code (Accessible by developers only)</li>
@@ -33,7 +39,7 @@
 <li>Triggerremove - Remove a trigger</li>
 <li>Triggershow - Show the current triggers</li>
 
-<h3>🤑Economy Commands: </h3>
+### 🤑Economy Commands:
 <li>Balance - Show a user's balance</li>
 <li>Daily - Claim your daily reward</li>
 <li>Give - Give money to a user</li>
@@ -46,7 +52,7 @@
 <li>Vote - Vote for the bot</li>
 <li>Work - Work</li>
 
-<h3>🤪Fun Commands: </h3>
+### 🤪Fun Commands:
 <li>8ball - Ask the 8ball a question</li>
 <li>Compliment - Compliment an user</li>
 <li>Fact - Get a random fact</li>
@@ -57,7 +63,7 @@
 <li>Sudo - Create a webhook to impersonate someone</li>
 <li>Urban - Get information about a random word</li>
 
-<h3>👍General Commands: </h3>
+### 👍General Commands:
 <li>Firstmessage - Fetch the first message of the channel</li>
 <li>GPT - Get a response from AI</li>
 <li>Help - Help command</li>
@@ -68,7 +74,7 @@
 <li>Snipe - View the last deleted message</li>
 <li>Social - View the social links of sports stadium</li>
 
-<h3>🚨Moderation: </h3>
+### 🚨Moderation: 
 <li>Addrole - Add a role to an user</li>
 <li>Ban - Ban an user</li>
 <li>Kick - Kick an user</li>
@@ -81,12 +87,12 @@
 <li>Unlock - Unlock a channel</li>
 <li>Unmute - Unmute an user</li>
 
-<h3>😅Other: </h3>
+### 😅Other: </h3>
 <li>ChatGPT - Free chatgpt in the official server only</li>
 <li>ChatBot - Free funny chatbot in the official server only</li>
 <li>Chatcoins - Award users for sending messages</li>
 
-<h3>🔢Statics</h3>
+## 🔢Statics:
 <img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1143059537910304828/Screenshot_467.png" style = "width:700px;height:450px" alt = "Top.gg" align = "left">
 
 <br>
