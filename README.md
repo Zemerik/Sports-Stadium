@@ -55,6 +55,51 @@ Contributions are always welcome, however we request you to read our [Code of Co
 
 - Your pull-request will be merged as soon as possible after being reviewed👍. Thanks for Contributing
 
+## 🥳Installation:
+
+### Requirements:
+- Node v18 / +
+
+### Download:
+
+- You can install the files by either [forking](https://github.com/Zemerik/Sports-Stadium/fork), downloading as a ZIP Folder or running the following command in git,
+
+```
+git clone https://github.com/Zemerik/Sports-Stadium
+```
+
+> You can delete the `v1.0.0` and `assets` directory. All the necessary files are in the `v2.0.1` directory. 
+
+### Installing Third Party Packages:
+
+```js
+npm install
+```
+
+### Config.json
+
+- After installing the modules, create a `config.json` file in your root directory with the following information:
+
+```
+{
+  "commandsPerPage": 6,
+  "reply": "<:reply:1114154084266680431>",
+  "allowedUserIds": [], // User id's of users who can use the developer commands
+  "prefix": "...",
+  "bot_token": "...",
+  "clientId": "...",
+  "guildId": "..."
+}
+```
+
+> Remember to replace the `...` with the actual information
+
+### Running the bot:
+
+```
+node .
+```
+
 ## 📝Commands:
 
 ### 📱Developer Commands:
@@ -135,3 +180,4 @@ Contributions are always welcome, however we request you to read our [Code of Co
 <p>This repositery is under <a href = "https://github.com/Zemerik/Sports-Universe-Bot/blob/main/LICENSE">BSD 2 Clause</a> licence.</p>
 
 <h1 align = "center">🤩Thanks for visiting🤩</h1>
+<p align = "center">Don't Forget to Leave a ⭐</p>
