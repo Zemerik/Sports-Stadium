@@ -3,17 +3,10 @@ const { MessageEmbed } = require("discord.js")
 const { User } = require("../../utils/schemas")
 
 const jobs = [
-    "🧑‍🏫 Teacher",
-    "🧑‍⚕️ Doctor",
-    "👮 Police Officer",
-    "🧑‍🍳 Chef",
-    "🧑‍🚒 Firefighter",
-    "🚌 Bus Driver",
-    "🧑‍🔬 Scientist",
-    "📮 Postman",
-    "🧑‍🏭 Engineer",
-    "🧑‍🎨 Artist",
-    "🧑‍✈️ Pilot"
+    "6️⃣ Six",
+    "4️⃣ Four",
+    "💔 Wicket",
+    "🤪 Hatrick",
 ]
 
 
@@ -34,7 +27,7 @@ module.exports = {
         userData.save()
 
         const workEmbed = new MessageEmbed()
-            .setDescription(`You worked as a **\` ${job} \`** and earned \` ${amount} 🪙 \``)
+            .setDescription(`You scored a **\` ${job} \`** and earned \` ${amount} 🪙 \``)
             .setColor("YELLOW")
             .setFooter('Note: Your current balance will be changed to your previous balance soon')
 
