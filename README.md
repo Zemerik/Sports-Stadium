@@ -21,6 +21,7 @@
 </p>
 
 <p align = "center"><img src = "https://discord.c99.nl/widget/theme-4/1119542429201211432.png"></p>
+<p align = "center"><img src = "https://skillicons.dev/icons?i=javascript,nodejs,discordjs,mongodb,replit,vscode&perline=25"></p>
 
 ## ℹ️About:</h3>
 <p>Sports Stadium is a discord bot made with JavaScript, specifically NodeJS. The bot was originally made to manage <a href = "https://discord.gg/THJhePHaH7">Stadium</a>, however numerous servers have added the bot. Sports Stadium is a fully modular bot, meaning that users can enable/disable any commands. The main features that the bot covers are: Developer; Economy; Fun; General; Moderation. There are 8 to 15 commands in each of those Categories.The bot used a MongoDB Database for the economy commands and is currently in the process of being verified.</p>
