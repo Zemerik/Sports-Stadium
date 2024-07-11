@@ -1,4 +1,7 @@
-<p align = "center"><img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1233606111807012864/image.png?ex=662db4b8&is=662c6338&hm=0c78e146a60f89911db1782ddd480f5baae36ef9cd625759d3aaa590e9541c1d&"></p>
+> [!IMPORTANT]
+> This Project has now been **ARCHIVED**! Thanks to all Contributors, Users, and Servers who have been a part of this project👍
+
+<p align = "center"><img src = "assets/img/sports-stadium.png"></p>
 
 <h1 align = "center">🚨Sports Stadium🚨</h1>
 
@@ -24,37 +27,7 @@
 <p align = "center"><img src = "https://skillicons.dev/icons?i=javascript,nodejs,discordjs,mongodb,replit,vscode&perline=25"></p>
 
 ## ℹ️About:</h3>
-<p>Sports Stadium is a discord bot made with JavaScript, specifically NodeJS. The bot was originally made to manage <a href = "https://discord.gg/THJhePHaH7">Stadium</a>, however numerous servers have added the bot. Sports Stadium is a fully modular bot, meaning that users can enable/disable any commands. The main features that the bot covers are: Developer; Economy; Fun; General; Moderation. There are 8 to 15 commands in each of those Categories.The bot used a MongoDB Database for the economy commands and is currently in the process of being verified.</p>
-
-## 🫂Contributing:
-
-Contributions are always welcome, however we request you to read our [Code of Conduct](https://github.com/Zemerik/Sports-Stadium/blob/main/CODE_OF_CONDUCT.md) prior to contributing!
-
-### 🪲Bug:
-
-- If you would like to report a bug, or suggest any feedback, you can do by either opening an [issue](https://github.com/Zemerik/Sports-Stadium/issues) on this Repository, or by submitting a [form](https://forms.gle/vr9mPw72HczYaLSH8). 
-
-### ➕New Command/Feature:
-
-#### 👈Prerequisites:
-
-- Code is tested and functions prior to opening the pull request!
-
-#### 🍴Forking:
-
-- Fork a copy of this Repository on your github account by clicking [here](https://github.com/Zemerik/Sports-Stadium/fork).
-
-#### 😆Adding your Command/Feature:
-
-- If you are adding a Command to the bot, you would want to head over to the [v2.0.1](https://github.com/Zemerik/Sports-Stadium/tree/main/v2.0.1) directory and the add your command in the [commands](https://github.com/Zemerik/Sports-Stadium/tree/main/v2.0.1/commands) directory in the corresponding foler.
-
-- If you are adding a feature in the dashboard, you can find the files in the [assets](https://github.com/Zemerik/Sports-Stadium/tree/main/assets) directory.
-
-#### 🔗Pull Request:
-
-- Come back to the original Repository and open a pull request by clicking [here](https://github.com/Zemerik/Sports-Stadium/pulls). Remeber to give your Pull-request a good title and a brief overview of your feature in the description.
-
-- Your pull-request will be merged as soon as possible after being reviewed👍. Thanks for Contributing
+<p>Sports Stadium was a discord bot made with JavaScript, specifically NodeJS. The bot was originally made to manage <a href = "https://discord.gg/THJhePHaH7">Sports Stadium</a>, however numerous servers added the bot. Sports Stadium was a fully modular bot, meaning that users can enable/disable any commands. The main features that the bot covered were: Developer; Economy; Fun; General; Moderation. There were 8 to 15 commands in each of those Categories.The bot used a MongoDB Database for the economy command and was verified before being archived. </p>
 
 ## 🥳Installation:
 
